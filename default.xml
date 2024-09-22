@@ -17,6 +17,4 @@
   <project path="prebuilts/kernel-build-tools" name="kernel/prebuilts/build-tools" clone-depth="1" />
   <project path="tools/mkbootimg" name="platform/system/tools/mkbootimg" />
 
-  <!-- realme GT Master (edition) kernel -->
-  <project path="kernel/msm-5.4" name="rk134/android_kernel_oplus_sm8350" remote="github" revision="tm" />
 </manifest>
